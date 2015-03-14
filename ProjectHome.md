@@ -1,0 +1,1 @@
+The purpose of this project is to create an open-source program which uses video processing on a video sequence of ultrasound pictures of the gastronemius muscle to extract the pennation angle.
